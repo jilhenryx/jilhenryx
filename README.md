@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jil Henry
-- 👀 I’m into in Mobile Development, Deep Learning and AI, Mixed Reality and Web Development
-- 🌱 I’m currently learning Modern Android Development using Kotlin and the Jetpack Library
-- 💞️ I’m looking to collaborate on Mobile and Web Projects
+- 👋 Hi, my name is Jil Henry.
+- 👀 I’m into in Mobile Development, Deep Learning and AI, with a lil knowledge in Web Development.
+- 🌱 I’m currently focused on Modern Android Development using Kotlin and the Jetpack Library.
+- 💞️ I’m looking to collaborate on Mobile Projects.
 - 📫 I can be reached on twitter @jilhenryx and email: henryjil.adam25@gmail.com
 
 <!---
